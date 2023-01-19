@@ -1,0 +1,207 @@
+[
+    {
+        "_id": "63c688915ad12660901b7c7e",
+        "index": 0,
+        "projectName": "HealthOpX",
+        "title": "HealthOpx is a healthcare consulting and technology company that provides services such as strategic planning, data analytics, and digital transformation to healthcare organizations. ",
+        "image": "https://i.ibb.co/Df5LmLz/main.png",
+        "overview": "HealthOpX cofounders are 2nd generation Americans who had to help their parents navigate the healthcare system. They leaned on their community and community-based organizations for guidance. They knew that to create a sustainable change in their communities they had to uplift and support the community-based organizations that helped them growing up. HealthOpX saw similarities in other underserved populations around the U.S., and how community organizations were also a pillar of those communities, and is on a mission to create sustainable change for the underserved.",
+        "liveSite": "https://healthopx.com/",
+        "technologies": [
+            {
+                "name": "Java Spring"
+            },
+            {
+                "name": "ionic "
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "services": [
+            {
+                "name": "UX/UI design"
+            },
+            {
+                "name": "Front end  Development"
+            },
+            {
+                "name": "back end  Development"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "Security and privacy concerns, as sensitive patient information needs to be protected. Solutions include implementing secure servers and encryption techniques."
+            },
+            {
+                "name": "Data governance, management, and analytics. Solutions include use of data management platforms, governance frameworks, and data analytics tools."
+            },
+            {
+                "name": "Integration with existing healthcare systems and databases. Solutions include using APIs and HL7 interfaces."
+            }
+        ],
+        "solutions": [
+            {
+                "name": "Security and privacy: Implementing secure servers and encryption techniques such as SSL/TLS, two-factor authentication, and regular security audits."
+            },
+            {
+                "name": "Data governance, management, and analytics: Use of data management platforms, governance frameworks, and data analytics tools to ensure proper data governance and analytics."
+            },
+            {
+                "name": "Integration: Using APIs and HL7 interfaces to integrate with existing healthcare systems and databases."
+            }
+        ],
+        "features": [
+            {
+                "image": "https://i.ibb.co/3p9XXDd/f1.png",
+                "title": "Community Health Partner",
+                "detils": "HealthOpX offers operations software to community-based organizations so they can effectively carry out their own programs and work with government and health entities."
+            },
+            {
+                "image": "https://i.ibb.co/56kdnrR/f3.png",
+                "title": "Community Health Improvements With Technology",
+                "detils": "HealthOpX also has a predictive analytics tool that enables you to assess the risk of a members readmission, ER visit, and morbidity. We also have a service-based platform, where we partner with community-based organizations (CBO’s) to act upon these risk assessments. When CBO’s deliver a measure of preventative care or intervention through the service-based platform it feeds back into the algorithm and we are able to calculate how much they decreased the risk of X event or how they affected X health improvement initiative."
+            }
+        ]
+    },
+    {
+        "_id": "63c68891816e22ffe053ba44",
+        "index": 1,
+        "projectName": "Synerise",
+        "title": "This is an AI-driven marketing dashboard and SaaS project. Reinvented behavioral data processing & put it into work using AI & automation",
+        "image": "https://i.ibb.co/rfQ5Qxf/main.png",
+        "overview": "Reinvented behavioral data processing & put it into work using AI & automation 🥳 #17 Europe’s Fastest Growing Technology SectorCompany according to Financial Times & statista.com API first, headless, customizable & scalable, real-time interaction management, low code platform driven by science with data orchestration and pragmatic business scenarios execution.",
+        "liveSite": "https://synerise.com/",
+        "technologies": [
+            {
+                "name": "Java Spring"
+            },
+            {
+                "name": "Node"
+            },
+            {
+                "name": "Microservices"
+            },
+            {
+                "name": "React.JS"
+            },
+            {
+                "name": "Next.JS"
+            }
+        ],
+        "services": [
+            {
+                "name": "Full-Stack Development"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "Data security: Ensuring that sensitive data is protected and in compliance with regulations such as GDPR and CCPA."
+            },
+            {
+                "name": "Integration with existing tools: Integrating the dashboard with existing marketing tools such as Google Analytics, Facebook Ads, or marketing automation software."
+            },
+            {
+                "name": "Pricing and cost: Finding the right pricing model and cost structure to attract and retain customers."
+            },
+            {
+                "name": "Scalability: Ensuring that the dashboard can handle a large amount of data and accommodate for future growth in terms of users and data sources."
+            }
+        ],
+        "solutions": [
+            {
+                "name": "Data security: Implementing secure servers and encryption techniques, as well as regular security audits to ensure data protection and compliance with regulations."
+            },
+            {
+                "name": "Integration with existing tools: Using APIs and integration platforms to connect the dashboard with existing marketing tools."
+            },
+            {
+                "name": "Pricing and cost: Finding the right pricing model and cost structure to attract and retain customers, for example, usage-based pricing or tiered pricing plans."
+            },
+            {
+                "name": "Scalability: Using cloud-based infrastructure and load balancing techniques to handle a large amount of data and accommodate for future growth."
+            }
+        ],
+        "features": [
+            {
+                "image": "https://optimizer.synerise.com/images/resize/370/217/cover/6d90ee9d65cf42ed9ada3ca7b467f2ff.jpg",
+                "title": "Retail",
+                "detils": "Seamlessly integrate online and offline customer activities for a true 360-degree profile, updated in real time, while delivering customized content at scale.."
+            },
+            {
+                "image": "https://optimizer.synerise.com/images/resize/370/217/cover/ab9c35443bf245f59ba259c8fe4bd014.jpg",
+                "title": "E-commerce",
+                "detils": "Monitor customer touchpoints for optimized content and pricing information in tailored conversion paths."
+            },
+            {
+                "image": "https://optimizer.synerise.com/images/resize/370/217/cover/0f932db1cafe4957b0dce590b1edb321.jpg",
+                "title": "Automotive",
+                "detils": "Manage lead generation and sales funnel activity more effectively to drive traffic to showrooms, while enhancing the customer experience."
+            }
+        ]
+    },
+    {
+        "_id": "63c68891256ca3b34c92b510",
+        "index": 2,
+        "projectName": "MasterMind",
+        "title": "The New Way To Sell What You Know Online.",
+        "image": "https://i.ibb.co/zf1ngfP/main.png",
+        "overview": "MasterMind is an event management system that helps inexperienced coordinators with handling the organisation process step-by-step. The app includes multiple features: timelines, lists of tasks and requirements, registration of participants along with payment, an interactive wizard to create the promotion website and event agenda, video guides, and more.",
+        "liveSite": "https://mastermind.com/",
+        "technologies": [
+            {
+                "name": "Angular"
+            },
+            {
+                "name": "Java Spring"
+            },
+            {
+                "name": "React"
+            }
+        ],
+        "services": [
+            {
+                "name": "UX/UI design"
+            },
+            {
+                "name": "Web Development"
+            }
+        ],
+        "challenges": [
+            {
+                "name": "Scalability: Ensuring that the system can handle a large number of events and attendees, as well as accommodate for future growth."
+            },
+            {
+                "name": "User experience: Ensuring that the system is user-friendly and easy to navigate for both event organizers and attendees."
+            },
+            {
+                "name": "Data management: Managing and storing large amounts of event data, including attendee information, ticket sales, and event schedules."
+            },
+            {
+                "name": "Customization: Allowing for customization of the system to meet the specific needs of different event types and clients."
+            }
+        ],
+        "solutions": [
+            {
+                "name": "Scalability: Using cloud-based infrastructure and load balancing techniques to handle a large number of events and attendees, and accommodate for future growth."
+            },
+            {
+                "name": "User experience: Conducting user testing and incorporating feedback to improve the user interface, and providing clear and actionable insights to help event organizers and attendees."
+            },
+            {
+                "name": "Data management: Use of data management platforms and data governance frameworks to manage and store large amounts of event data."
+            },
+            {
+                "name": "Customization: Building the system with a modular architecture to allow for easy customization to the specific needs of different event types and clients."
+            }
+        ],
+        "features": [
+            {
+                "image": "https://mastermind.com/wp-content/uploads/2022/07/build-your-business2x-1024x794.png",
+                "title": "Build Your Business With Simplicity",
+                "detils": "We’ve seen the same story too many times: you get excited, you know what you want to sell, what you want to say and who you want to serve… but then complicated technology gets in the way."
+            }
+        ]
+    }
+]
+
